@@ -35,9 +35,10 @@
     color:white;
 }
 .logo {
+    text-align: center;
         font-family: 'Barlow Condensed' , sans-serif;
 
-    margin-left: 550px;
+    
     color: white;
     font-size: 30px;
     font-weight: 900;
@@ -56,5 +57,17 @@
 .head1 {
     font-family: 'Barlow Condensed' , sans-serif;
     text-align: center;
-    
+    font-size: 40px;
 }
+.head1 p {
+    font-size: 30px;
+}
+.world-cup {
+    justify-content: center;
+    display: flex;
+}
+.world-cup img {
+    width: 1000px;
+    height: auto;
+}
+
